@@ -1,4 +1,4 @@
-<h1>html-house 🏘️
+<h1>House 🏘️
  
  <h4>
  <li>CSS
